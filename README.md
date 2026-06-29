@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Mahbod
 
-<!--
-**mahbod00980/mahbod00980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer & Student
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://mahbod00980.netlify.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,vscode)](https://skillicons.dev)
+
+### 🚀 Currently Learning
+
+* JavaScript (Advanced)
+* Python
+* React
+
+### 📫 Contact Me
+
+* GitHub: https://github.com/mahbod00980
+* Portfolio: https://mahbod00980.netlify.app
