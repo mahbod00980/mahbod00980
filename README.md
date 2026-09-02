@@ -6,7 +6,7 @@
 
 ### 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,vscode,React)](https://skillicons.dev)
 <img src="[https://img.icons8.com/color/48/000000/flask.png](https://flask.palletsprojects.com/en/stable/_images/flask-name.svg)" alt="Flask" width="48" height="48"/>
 
 
