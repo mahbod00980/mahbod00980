@@ -6,7 +6,7 @@
 
 ### 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,vscode)](https://skillicons.dev,Flask)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,vscode,Flask)](https://skillicons.dev)
 
 ### 🚀 Currently Learning
 
